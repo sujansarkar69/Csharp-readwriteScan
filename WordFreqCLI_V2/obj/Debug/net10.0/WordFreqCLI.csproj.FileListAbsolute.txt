@@ -1,0 +1,14 @@
+/Users/sujansarkar/WordFreqCLI/obj/Debug/net10.0/WordFreqCLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujansarkar/WordFreqCLI/obj/Debug/net10.0/WordFreqCLI.AssemblyInfoInputs.cache
+/Users/sujansarkar/WordFreqCLI/obj/Debug/net10.0/WordFreqCLI.AssemblyInfo.cs
+/Users/sujansarkar/WordFreqCLI/obj/Debug/net10.0/WordFreqCLI.csproj.CoreCompileInputs.cache
+/Users/sujansarkar/WordFreqCLI/bin/Debug/net10.0/WordFreqCLI
+/Users/sujansarkar/WordFreqCLI/bin/Debug/net10.0/WordFreqCLI.deps.json
+/Users/sujansarkar/WordFreqCLI/bin/Debug/net10.0/WordFreqCLI.runtimeconfig.json
+/Users/sujansarkar/WordFreqCLI/bin/Debug/net10.0/WordFreqCLI.dll
+/Users/sujansarkar/WordFreqCLI/bin/Debug/net10.0/WordFreqCLI.pdb
+/Users/sujansarkar/WordFreqCLI/obj/Debug/net10.0/WordFreqCLI.dll
+/Users/sujansarkar/WordFreqCLI/obj/Debug/net10.0/refint/WordFreqCLI.dll
+/Users/sujansarkar/WordFreqCLI/obj/Debug/net10.0/WordFreqCLI.pdb
+/Users/sujansarkar/WordFreqCLI/obj/Debug/net10.0/WordFreqCLI.genruntimeconfig.cache
+/Users/sujansarkar/WordFreqCLI/obj/Debug/net10.0/ref/WordFreqCLI.dll
